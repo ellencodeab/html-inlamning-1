@@ -50,8 +50,6 @@ Det tog tid att lägga till bilder och kontrollera att de visades i rätt storle
 
 ### Tillgänglighet
 
-### Tillgänglighet
-
 HTML-koden har granskats med hjälp av AI för att kontrollera sidans tillgänglighet.
 
 Granskningen visade att sidan använder semantiska HTML-element som `header`, `nav`, `main`, `article`, `aside` och `footer`. Formulärfälten har tillhörande etiketter (`label`), bilderna har alternativtexter (`alt`) och sidans språk är angivet som svenska.
