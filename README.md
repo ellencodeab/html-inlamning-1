@@ -50,7 +50,17 @@ Det tog tid att lägga till bilder och kontrollera att de visades i rätt storle
 
 ### Tillgänglighet
 
-Här skriver jag vad jag upptäcker när jag kontrollerar sidan med AI och webbläsarens utvecklarverktyg.
+### Tillgänglighet
+
+HTML-koden har granskats med hjälp av AI för att kontrollera sidans tillgänglighet.
+
+Granskningen visade att sidan använder semantiska HTML-element som `header`, `nav`, `main`, `article`, `aside` och `footer`. Formulärfälten har tillhörande etiketter (`label`), bilderna har alternativtexter (`alt`) och sidans språk är angivet som svenska.
+
+Några förbättringsmöjligheter upptäcktes också. Länkarna med texten "Läs mer" kan göras tydligare för skärmläsare. Vissa interna länkar saknar mål och alternativtexten för den tredje bilden kan vara mer beskrivande.
+
+HTML-koden kontrollerades även med W3C Nu Html Checker. Resultatet visade inga fel eller varningar.
+
+En viktig lärdom är att giltig HTML inte automatiskt innebär att en webbplats är helt tillgänglig.
 
 ### HTML-validering
 
