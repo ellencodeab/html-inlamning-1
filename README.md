@@ -28,7 +28,25 @@ Jag använde ingen timer under arbetet, så tiden är uppskattad i efterhand. Gi
 
 ### Resultat
 
-Fylls i när uppgiften är klar.
+| Arbetsmoment | Estimat | Utfall |
+|---|---:|---|
+| Planering och HTML-struktur | 2 SP | Enligt plan |
+| Sidhuvud och navigation | 1 SP | Enligt plan |
+| Huvudartikel | 2 SP | Enligt plan |
+| Andra och tredje artikeln | 2 SP | Enligt plan |
+| Kontaktformulär | 2 SP | Enligt plan |
+| Sidfot och kontaktuppgifter | 1 SP | Enligt plan |
+| Tillgänglighetsgranskning | 2 SP | Återstår att dokumentera |
+| HTML-validering | 1 SP | Genomförd utan fel |
+| Tidsuppföljning och reflektion | 1 SP | Pågår |
+| GitHub och kontroll | 1 SP | Genomfört |
+
+**Totalt estimat: 15 SP**
+**Faktisk arbetstid: cirka 3 timmar**
+
+### Lärdomar
+
+Det tog tid att lägga till bilder och kontrollera att de visades i rätt storlek. Jag lärde mig också att använda GitHub för att spara ändringar och W3C Validator för att kontrollera HTML-koden. Nästa gång vill jag använda en timer från början för att kunna jämföra min planering med den faktiska arbetstiden mer exakt.
 
 ### Tillgänglighet
 
