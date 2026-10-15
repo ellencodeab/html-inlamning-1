@@ -22,7 +22,9 @@ Totalt: 15 SP
 
 ### Tidsuppföljning
 
-Jag skriver upp hur lång tid de olika delarna tar. När arbetet är klart jämför jag den faktiska tiden med mina uppskattningar.
+Den totala arbetstiden uppskattas till cirka 3 timmar.
+
+Jag använde ingen timer under arbetet, så tiden är uppskattad i efterhand. GitHub-historiken användes som stöd.
 
 ### Resultat
 
