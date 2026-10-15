@@ -34,4 +34,9 @@ Här skriver jag vad jag upptäcker när jag kontrollerar sidan med AI och webbl
 
 ### HTML-validering
 
-Här lägger jag till resultatet från W3C Validator.
+Jag kontrollerade min HTML-fil med W3C Nu Html Checker.
+
+Resultat: Inga fel eller varningar hittades.
+
+Jag har sparat en skärmbild av valideringsresultatet i GitHub-repot.
+
